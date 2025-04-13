@@ -1,0 +1,15 @@
+# Docker
+**/docker-compose.yml
+**/.dockerignore
+
+# Node
+node_modules/
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+
+# Otros
+.DS_Store
+.env
